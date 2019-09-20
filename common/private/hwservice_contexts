@@ -1,0 +1,2 @@
+
+vendor.cygnus.biometrics.fingerprint.inscreen::IFingerprintInscreen    u:object_r:hal_cygnus_fod_hwservice:s0
